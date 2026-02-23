@@ -7,8 +7,12 @@ Even though I have only just begun my college education, I look forward to the d
 
 As a person with high hopes and big dreams, I want to push this passion past what I ever thought I could do!
 
+______________________________________________________________________________________________________________________________________________
+
 Tech Knowledge: C-family, Java, Python, HTML, CSS
+
 Programming Certifications: ITS Java and ITS Python, Unity Certified User: Programmer
+
 Courses: Program Design, Currently enrolled in Data Structures and Machine Organization
 
 My Projects:
